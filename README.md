@@ -41,5 +41,4 @@
 
 ### **Goals** 🎯
 * 🛡️ Master **Advanced Java** and **Cybersecurity** protocols.
-* 🏨 Complete the **Hotel Management System** interface.
 * 🎓 Graduate as a proficient Software Engineer from **Abaarso Tech University**.
