@@ -42,3 +42,5 @@
 ### **Goals** 🎯
 * 🛡️ Master **Advanced Java** and **Cybersecurity** protocols.
 * 🎓 Graduate as a proficient Software Engineer from **Abaarso Tech University**.
+*   Hargeisa Somaliland .
+
