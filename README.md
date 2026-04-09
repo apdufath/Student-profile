@@ -1,4 +1,4 @@
-# Student Profile 👨‍💻
+# Student Profile 👨‍💻...
 
 ### **Name**
 **Abdifatah Mohammed Bashe**
