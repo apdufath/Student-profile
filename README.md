@@ -53,17 +53,17 @@ I am a high-performance **Software Engineering student at Abaarso Tech Universit
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=apdufath&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apdufath&layout=compact&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=apdufath&show_icons=true&theme=tokyonight&count_private=true" width="400" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apdufath&layout=compact&theme=tokyonight" width="300" />
 </p>
 
 ---
 
 ## 🤝 Connect with Me
 <p align="left">
-<a href="https://www.instagram.com/apdulfath.22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="apdulfath.22" height="30" width="40" /></a>
-<a href="mailto:ibnubaashe999@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="ibnubaashe999" height="30" width="40" /></a>
-<a href="https://github.com/apdufath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="apdufath" height="30" width="40" /></a>
+<a href="https://www.instagram.com/apdulfath.22" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="mailto:ibnubaashe999@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/apdufath" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
