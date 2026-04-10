@@ -1,7 +1,6 @@
 # Student Profile 👨‍💻...
 
-### **Name**
-**Abdifatah Mohammed Bashe**
+### **Name**----Abdifatah Mohammed Bashe**
 
 ### **Skills** 🚀
 
