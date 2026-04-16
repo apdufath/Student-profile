@@ -8,7 +8,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=apdufath&theme=tokyonight&no-bg=true&margin-w=15" alt="github trophies" />
 </p>
 
----
+--------
 
 ### 🚀 About Me
 <img align="right" width="350" src="https://github.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/blob/main/Web%20Development/Web%20Dev%203.gif?raw=true" />
