@@ -8,7 +8,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=apdufath&theme=tokyonight&no-bg=true&margin-w=15" alt="github trophies" />
 </p>
 
---------
+------------
 
 ### 🚀 About Me
 <img align="right" width="350" src="https://github.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/blob/main/Web%20Development/Web%20Dev%203.gif?raw=true" />
@@ -34,7 +34,7 @@ I am a high-performance **Software Engineering student at Abaarso Tech Universit
 | **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white) |
 | **UI/UX & Tools** | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![VScode](https://img.shields.io/badge/-VScode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
 
----
+------
 
 ### 📊 My GitHub Activity
 <p align="center">
@@ -45,9 +45,10 @@ I am a high-performance **Software Engineering student at Abaarso Tech Universit
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=apdufath&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
 </p>
 
----
+------
 
 ### 🤝 Connect with Me
+------
 <p align="center">
   <a href="https://www.instagram.com/apdulfath.22"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:ibnubaashe999@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
