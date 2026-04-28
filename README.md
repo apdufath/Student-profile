@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=10B981&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Full-Stack+Web+Developer;Cybersecurity+Specialist;Python+%26+Django+Master" alt="Typing SVG" />
 </p>
  
--------------
+------------
    
 ### 🚀 About Me
 -------------
