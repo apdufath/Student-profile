@@ -34,7 +34,7 @@ I am a high-performance **Software Engineering student at Abaarso Tech Universit
 | **UI/UX & Tools** | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![VScode](https://img.shields.io/badge/-VScode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
 
 ------
-
+ 
 ### 📊 My GitHub Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=apdufath&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="GitHub Stats" />
