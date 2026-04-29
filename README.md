@@ -16,8 +16,9 @@ I am a high-performance **Software Engineering student at Abaarso Tech Universit
 - 💻 **Full-Stack:** Specialized in Python, Django, and React.
 - 📱 **Mobile:** Developing cross-platform apps with Flutter & Dart.
 - 🏆 **Winner:** Soltelco Hackathon Participant & Award Winner.
+  
 
---------------
+-------------- 
   
 ### 🛠️ My Tech Stack
 ---------------
